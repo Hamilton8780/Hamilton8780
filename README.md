@@ -5,11 +5,21 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Atualmente trabalhando no setor de logistica ...
-- 🌱 Aprendendo HTML, CSS e JavaScript ...
-- 👯 Aprendendo para colaborar com um mundo melhor ...
-- 💬 Caso tenha alguma pergunta ou sugestão entre em contato comigo ...
-- 📫 ham1980@bol.com.br
+- 💆‍♂️ Atualmente trabalhando no setor de logistica ...
+- 🌱 Aprendendo HTML e CSS ...
+- 🔭 Foco no JavaScript ...
+- 🌎 Aprendendo para colaborar com um mundo melhor ...
+- 💬 Caso tenha alguma pergunta ou sugestão entre em contato comigo...
+  ###
+  
+<div> 
+    <a href = "mailto:contato.hamilton8780@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/hamiltonalmeidamagalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/mZaVVFQq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Hamilton8780 target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
+    
+###
 
 <div align="center">
   <a href="https://github.com/Hamilton8780">
@@ -17,10 +27,4 @@ Here are some ideas to get you started:-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamilton8780&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  ###
-  
-<div> 
-  <a href="https://instagram.com/hamiltonalmeidamagalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100001612185996" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
-  <a href="https://discord.gg/mZaVVFQq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+
