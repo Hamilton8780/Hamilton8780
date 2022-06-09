@@ -3,8 +3,8 @@
 
 <!--
 **Hamilton8780/Hamilton8780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:-->
+
 <div>
 - 💆‍♂️ Currently working in the logistics sector...
 - 🌱 Learning HTML and CSS...
@@ -12,6 +12,8 @@ Here are some ideas to get you started:-->
 - 🌎 Learning to collaborate with a better world...
 - 💬 Question or suggestions please contact me...
 </div>
+
+###
 
 <div>
 - 💆‍♂️ Atualmente trabalhando no setor de logistica ...
