@@ -1,8 +1,4 @@
 ### <div>Hi there! I'm Hamilton... 👋
-<!--
-**Hamilton8780/Hamilton8780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
-
 - 💆‍♂️ Currently working in the logistics sector...
 - 🌱 Learning HTML and CSS...
 - 🔭 Focused on learning JavaScript...
@@ -10,7 +6,7 @@ Here are some ideas to get you started:-->
 - 💬 Question or suggestions please contact me...
 </div>
 
-### <div>Olá! Eu sou o Hamilton... 👋
+### <div> Olá! Eu sou o Hamilton... 👋
 - 💆‍♂️ Atualmente trabalhando no setor de logistica ...
 - 🌱 Aprendendo HTML e CSS ...
 - 🔭 Focado em aprender JavaScript ...
@@ -34,9 +30,3 @@ Here are some ideas to get you started:-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamilton8780&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamilton8780&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-                                                                                                                                                  
-![snake animation](https://github.com/Hamilton8780/Hamilton8780/blob/output/github-contribution-grid-snake.svg)
-
-
-
